@@ -1,3 +1,3 @@
-# defjava
+# maven-project
 
-this is for the default java job. 
+Simple Maven Project
